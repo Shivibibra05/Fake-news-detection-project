@@ -11,9 +11,9 @@ This project is designed to detect fake news using **Logistic Regression** and *
 - Evaluates model performance and makes predictions.
 
 ## Usage
-- Load the dataset and preprocess the text.
-- Train the model using a labeled dataset.
-- Use the trained model to classify new articles as real or fake.
+- Loading  the dataset and preprocess the text.
+- Training the model using a labeled dataset.
+- Using the trained model to classify new articles as real or fake.
 
 ## Example Output
 ```sh
